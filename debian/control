@@ -20,5 +20,7 @@ XB-Ruby-Versions: ${ruby:Versions}
 Depends: ruby | ruby-interpreter,
          ${misc:Depends},
          ${shlibs:Depends}
-Description: Convenience wrapper for Ruby's ENV
- Using ENV is like using raw SQL statements in your code. We all know how that ends...
+Description: convenient wrapper for Ruby's ENV
+ This gem provides an easy way to use Ruby's ENV, which is a hash-like 
+ accessor for environment variables. This provides much friendlier stubbing 
+ in tests and namespaces which can be passed around as objects.

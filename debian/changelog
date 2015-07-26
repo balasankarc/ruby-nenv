@@ -1,5 +1,5 @@
-ruby-nenv (0.2.0-1) UNRELEASED; urgency=medium
+ruby-nenv (0.2.0-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #793703)
 
- -- Balasankar C <balasankarc@autistici.org>  Sun, 26 Jul 2015 23:23:44 +0530
+ -- Balasankar C <balasankarc@autistici.org>  Sun, 26 Jul 2015 23:02:02 +0530
